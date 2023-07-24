@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chitimbwasc
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on coding issues 
+- 👀 I’m interested in data science and systems engineering
+- 🌱 I’m currently immersed in AI and Web3 
+- 💞️ I’m looking to collaborate on AI,  Web3 and other data science and systems engineering issues 
 - 📫 How to reach me via my email : chitimbwasc@yahoo.com. 
 
 <!---
